@@ -1,0 +1,4 @@
+10/10 
+
+Comments: Good job! 
+It will be better if the location and the status can be printed in the same line for the same ship.

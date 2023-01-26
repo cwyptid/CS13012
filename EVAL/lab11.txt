@@ -1,0 +1,3 @@
+9.5/10
+
+All are good, just void constructor needs col_ = new double[size_];

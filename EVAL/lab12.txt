@@ -1,0 +1,4 @@
+10/10
+
+The indentation needs to be maitained.
+Also for multidimensional array, you can remove the spaces in " a b c d e f"

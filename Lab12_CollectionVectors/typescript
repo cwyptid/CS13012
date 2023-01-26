@@ -1,0 +1,17 @@
+Script started on 2021-04-30 13:21:49-04:00
+]0;elampert@hornet:~[elampert@hornet ~]$ ./CollectionVectors
+enter operation [a/r/q] and number: a
+2
+your numbers: 2 
+enter operation [a/r/q] and number: a
+3
+your numbers: 2 3 
+enter operation [a/r/q] and number: a4
+your numbers: 2 3 4 
+enter operation [a/r/q] and number: r3
+your numbers: 2 4 
+enter operation [a/r/q] and number: q
+]0;elampert@hornet:~[elampert@hornet ~]$ exit
+exit
+
+Script done on 2021-04-30 13:22:33-04:00
